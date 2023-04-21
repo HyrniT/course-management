@@ -22,9 +22,11 @@
 4. HTML/CSS/JavaScript/Java
 
 ### Tools
-IDE: Eclipse
-DBMS: PostgreSQL 4
-Server: Tomcat 9.0.73
+* IDE: Eclipse
+
+* DBMS: PostgreSQL 4
+
+* Server: Tomcat 9.0.73
 
 ### Libraries
 * jstl-1.2
